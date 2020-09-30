@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Jb7</string>
+    <string-array name="jurusan">
+        <item>Teknologi Informasi</item>
+        <item>Teknik Sipil</item>
+        <item>Teknik Mesin</item>
+        <item>Teknik Elektro</item>
+        <item>Teknik Kimia</item>
+        <item>Akuntansi</item>
+        <item>Administrasi Niaga</item>
+    </string-array>
+</resources>
